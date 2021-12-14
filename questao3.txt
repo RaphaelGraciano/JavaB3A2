@@ -1,4 +1,4 @@
-corolla
-abcd-1234
-3
-7
+Civic
+JHN-1207
+2
+5
